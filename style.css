@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(245, 245, 245);;
+}
+
+.container {
+    padding-top: 20px;
+    margin: 0 auto;
+    width: 1200px;
+    height: 750px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+.box {
+    padding-bottom: 50px;
+}
+.main-table, .second-table{
+    margin: 0 auto;
+    border-top: 1px solid lightgray; 
+    border-left: 1px solid lightgray;
+    border-spacing: 0 0px;
+}
+
+.colum {
+    padding: 10px 20px;
+    border-right:1px solid lightgray; 
+    border-bottom: 1px solid lightgray;
+    font-size: 0.9em;
+    width: 100px;
+    height: 20px;
+}
+
+.colum-second {
+    width: 53px;
+    height: 20px;
+}
+
+.header {
+    background-color: rgb(225, 225, 225);
+}
+
+.table-row:nth-child(2n-1) {
+    background-color: rgb(240, 240, 240);
+}
+
+.output {
+   font-weight: normal;
+}
+
