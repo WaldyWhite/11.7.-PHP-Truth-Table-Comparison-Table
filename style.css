@@ -13,6 +13,7 @@ body {
 }
 
 .box {
+
     padding-bottom: 50px;
 }
 .main-table, .second-table{
@@ -34,6 +35,13 @@ body {
 .colum-second {
     width: 53px;
     height: 20px;
+}
+
+.text {
+    padding: 0 175px;
+    margin:  auto;
+    text-align: left;
+    font-weight: normal;
 }
 
 .header {
