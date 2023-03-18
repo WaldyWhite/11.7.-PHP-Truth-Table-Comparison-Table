@@ -1,6 +1,6 @@
  ## <p align='center'>Таблица истинности PHP и Таблицы сравнения</p>
 
- <img src='Screenshot 2023-03-18 11.16.25.jpeg' align='center'>
+ <img src='screencapture-localhost-2023-03-18-11_41_07.png' align='center'>
 
  ***
 
